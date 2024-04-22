@@ -3,8 +3,8 @@ ZaverecnyProjekt
 Webova Stránka StokaTEAM
 
 Obsah
- - PHP
- - CSS
- - HTML
+ - HTML ->> Samotný web
+ - CSS ->> font a styl stránky
+ - PHP ->> Objednání na couching
  - JS (možná)
 
