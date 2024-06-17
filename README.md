@@ -8,3 +8,4 @@ Obsah
  - PHP ->> Objednání na couching, recenze na stránku
  - JS (možná)
 
+http://stoka.free.nf/index.html
